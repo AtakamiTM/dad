@@ -35,4 +35,4 @@
 8. Zakazuje się Reklamy innych serwerów badz serwerowni
 9. Zakazuje sie używanie błędów/bugów gry na swoja kożysć
 
-Administracja Fc zastrzega sobie prawo do edycji Regulaminu w dowolnym momencie bez wcześniejszego poinformowania użytkowników.
+**Administracja Fc zastrzega sobie prawo do edycji Regulaminu w dowolnym momencie bez wcześniejszego poinformowania użytkowników.**
