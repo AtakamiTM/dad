@@ -1,6 +1,6 @@
 **Taryfikator Kar**
 
-  Używanie cheatów/skryptów/wspomagaczy (auto, double, triple click etc.) [/ticket] = Ban
+  Używanie cheatów/skryptów/wspomagaczy (auto, double, triple click, TinyTask etc.) = Ban
   Reklama  = upomnienie / kick / ban czasowy [do] ban permanentny
   Reklama kanału YT = brak bana (jeśli użytkownik posiada odcinki z serwera, pozwolenie od Administracji) [lub] upomnienie / kick [do] wyciszenie
   Reklama livestream'u = brak bana (jeśli prowadzony jest z serwera, pozwolenie od Administracji) [lub] upomnienie / kick [do] wyciszenie
